@@ -1,0 +1,16 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Peras",
+        "precio": 55.0,
+        "categoria": "Frutas",
+        "stock": 33
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Manzanas",
+        "precio": 32.0,
+        "categoria": "Frutas",
+        "stock": 6
+    }
+]
